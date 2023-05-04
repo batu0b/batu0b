@@ -1,6 +1,7 @@
 # 💫 About Me:
-I learn and use these techs
-
+Hi everyone, I am Batuhan Bahayetmez. I am a computer engineering student at Sakarya University.
+I am actively studying web development.
+the technologies I prefer to use the most are written below.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-bahayetmez-610a45224/) 
