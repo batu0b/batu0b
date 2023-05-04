@@ -12,9 +12,6 @@ I learn and use these techs
 ![](https://github-readme-streak-stats.herokuapp.com/?user=batu0b&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batu0b&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=batu0b&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
